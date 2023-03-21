@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "GoreMacros (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "GoreMacros (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
